@@ -1,3 +1,3 @@
 # UnityShader
 
-YUVRender : render YUV420SP directly
+YUVRender.shader : render YUV420SP directly
